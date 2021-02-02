@@ -196,6 +196,33 @@ between-two-set.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/between-two-set.cpp.s
 .PHONY : between-two-set.cpp.s
 
+breaking-best-and-worst-records.obj: breaking-best-and-worst-records.cpp.obj
+
+.PHONY : breaking-best-and-worst-records.obj
+
+# target to build an object file
+breaking-best-and-worst-records.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj
+.PHONY : breaking-best-and-worst-records.cpp.obj
+
+breaking-best-and-worst-records.i: breaking-best-and-worst-records.cpp.i
+
+.PHONY : breaking-best-and-worst-records.i
+
+# target to preprocess a source file
+breaking-best-and-worst-records.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.i
+.PHONY : breaking-best-and-worst-records.cpp.i
+
+breaking-best-and-worst-records.s: breaking-best-and-worst-records.cpp.s
+
+.PHONY : breaking-best-and-worst-records.s
+
+# target to generate assembly for a file
+breaking-best-and-worst-records.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.s
+.PHONY : breaking-best-and-worst-records.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -238,6 +265,9 @@ help:
 	@echo ... between-two-set.obj
 	@echo ... between-two-set.i
 	@echo ... between-two-set.s
+	@echo ... breaking-best-and-worst-records.obj
+	@echo ... breaking-best-and-worst-records.i
+	@echo ... breaking-best-and-worst-records.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

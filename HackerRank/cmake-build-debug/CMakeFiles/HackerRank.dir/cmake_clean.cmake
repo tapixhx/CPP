@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HackerRank.dir/Problem1.cpp.obj"
   "CMakeFiles/HackerRank.dir/between-two-set.cpp.obj"
+  "CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj"
   "CMakeFiles/HackerRank.dir/main.cpp.obj"
   "HackerRank.exe"
   "HackerRank.exe.manifest"
