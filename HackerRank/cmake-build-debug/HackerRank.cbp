@@ -89,6 +89,9 @@
 		<Unit filename="E:/Github/CPP/HackerRank/breaking-best-and-worst-records.cpp">
 			<Option target="HackerRank"/>
 		</Unit>
+		<Unit filename="E:/Github/CPP/HackerRank/diivisible-sum-pairs.cpp">
+			<Option target="HackerRank"/>
+		</Unit>
 		<Unit filename="E:/Github/CPP/HackerRank/main.cpp">
 			<Option target="HackerRank"/>
 		</Unit>

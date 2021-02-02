@@ -223,6 +223,33 @@ breaking-best-and-worst-records.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.s
 .PHONY : breaking-best-and-worst-records.cpp.s
 
+diivisible-sum-pairs.obj: diivisible-sum-pairs.cpp.obj
+
+.PHONY : diivisible-sum-pairs.obj
+
+# target to build an object file
+diivisible-sum-pairs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj
+.PHONY : diivisible-sum-pairs.cpp.obj
+
+diivisible-sum-pairs.i: diivisible-sum-pairs.cpp.i
+
+.PHONY : diivisible-sum-pairs.i
+
+# target to preprocess a source file
+diivisible-sum-pairs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.i
+.PHONY : diivisible-sum-pairs.cpp.i
+
+diivisible-sum-pairs.s: diivisible-sum-pairs.cpp.s
+
+.PHONY : diivisible-sum-pairs.s
+
+# target to generate assembly for a file
+diivisible-sum-pairs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.s
+.PHONY : diivisible-sum-pairs.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -268,6 +295,9 @@ help:
 	@echo ... breaking-best-and-worst-records.obj
 	@echo ... breaking-best-and-worst-records.i
 	@echo ... breaking-best-and-worst-records.s
+	@echo ... diivisible-sum-pairs.obj
+	@echo ... diivisible-sum-pairs.i
+	@echo ... diivisible-sum-pairs.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
