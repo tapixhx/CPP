@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/HackerRank.dir/between-two-set.cpp.obj"
   "CMakeFiles/HackerRank.dir/bill-division.cpp.obj"
   "CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj"
+  "CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj"
   "CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj"
   "CMakeFiles/HackerRank.dir/main.cpp.obj"
   "HackerRank.exe"

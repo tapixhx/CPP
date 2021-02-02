@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/Github/CPP/HackerRank/between-two-set.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/between-two-set.cpp.obj"
   "E:/Github/CPP/HackerRank/bill-division.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/bill-division.cpp.obj"
   "E:/Github/CPP/HackerRank/breaking-best-and-worst-records.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj"
+  "E:/Github/CPP/HackerRank/cats-and-a-mouse.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj"
   "E:/Github/CPP/HackerRank/diivisible-sum-pairs.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj"
   "E:/Github/CPP/HackerRank/main.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/main.cpp.obj"
   )

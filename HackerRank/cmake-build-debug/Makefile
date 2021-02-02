@@ -250,6 +250,33 @@ breaking-best-and-worst-records.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.s
 .PHONY : breaking-best-and-worst-records.cpp.s
 
+cats-and-a-mouse.obj: cats-and-a-mouse.cpp.obj
+
+.PHONY : cats-and-a-mouse.obj
+
+# target to build an object file
+cats-and-a-mouse.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj
+.PHONY : cats-and-a-mouse.cpp.obj
+
+cats-and-a-mouse.i: cats-and-a-mouse.cpp.i
+
+.PHONY : cats-and-a-mouse.i
+
+# target to preprocess a source file
+cats-and-a-mouse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.i
+.PHONY : cats-and-a-mouse.cpp.i
+
+cats-and-a-mouse.s: cats-and-a-mouse.cpp.s
+
+.PHONY : cats-and-a-mouse.s
+
+# target to generate assembly for a file
+cats-and-a-mouse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.s
+.PHONY : cats-and-a-mouse.cpp.s
+
 diivisible-sum-pairs.obj: diivisible-sum-pairs.cpp.obj
 
 .PHONY : diivisible-sum-pairs.obj
@@ -325,6 +352,9 @@ help:
 	@echo ... breaking-best-and-worst-records.obj
 	@echo ... breaking-best-and-worst-records.i
 	@echo ... breaking-best-and-worst-records.s
+	@echo ... cats-and-a-mouse.obj
+	@echo ... cats-and-a-mouse.i
+	@echo ... cats-and-a-mouse.s
 	@echo ... diivisible-sum-pairs.obj
 	@echo ... diivisible-sum-pairs.i
 	@echo ... diivisible-sum-pairs.s
