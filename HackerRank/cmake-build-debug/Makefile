@@ -196,6 +196,33 @@ between-two-set.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/between-two-set.cpp.s
 .PHONY : between-two-set.cpp.s
 
+bill-division.obj: bill-division.cpp.obj
+
+.PHONY : bill-division.obj
+
+# target to build an object file
+bill-division.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/bill-division.cpp.obj
+.PHONY : bill-division.cpp.obj
+
+bill-division.i: bill-division.cpp.i
+
+.PHONY : bill-division.i
+
+# target to preprocess a source file
+bill-division.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/bill-division.cpp.i
+.PHONY : bill-division.cpp.i
+
+bill-division.s: bill-division.cpp.s
+
+.PHONY : bill-division.s
+
+# target to generate assembly for a file
+bill-division.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/bill-division.cpp.s
+.PHONY : bill-division.cpp.s
+
 breaking-best-and-worst-records.obj: breaking-best-and-worst-records.cpp.obj
 
 .PHONY : breaking-best-and-worst-records.obj
@@ -292,6 +319,9 @@ help:
 	@echo ... between-two-set.obj
 	@echo ... between-two-set.i
 	@echo ... between-two-set.s
+	@echo ... bill-division.obj
+	@echo ... bill-division.i
+	@echo ... bill-division.s
 	@echo ... breaking-best-and-worst-records.obj
 	@echo ... breaking-best-and-worst-records.i
 	@echo ... breaking-best-and-worst-records.s

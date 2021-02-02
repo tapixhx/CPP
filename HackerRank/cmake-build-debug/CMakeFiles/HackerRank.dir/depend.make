@@ -7,5 +7,7 @@ CMakeFiles/HackerRank.dir/between-two-set.cpp.obj: ../between-two-set.cpp
 
 CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj: ../breaking-best-and-worst-records.cpp
 
+CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj: ../diivisible-sum-pairs.cpp
+
 CMakeFiles/HackerRank.dir/main.cpp.obj: ../main.cpp
 

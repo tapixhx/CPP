@@ -86,6 +86,9 @@
 		<Unit filename="E:/Github/CPP/HackerRank/between-two-set.cpp">
 			<Option target="HackerRank"/>
 		</Unit>
+		<Unit filename="E:/Github/CPP/HackerRank/bill-division.cpp">
+			<Option target="HackerRank"/>
+		</Unit>
 		<Unit filename="E:/Github/CPP/HackerRank/breaking-best-and-worst-records.cpp">
 			<Option target="HackerRank"/>
 		</Unit>
