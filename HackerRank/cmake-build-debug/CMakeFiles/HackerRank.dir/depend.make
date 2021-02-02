@@ -9,7 +9,11 @@ CMakeFiles/HackerRank.dir/bill-division.cpp.obj: ../bill-division.cpp
 
 CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj: ../breaking-best-and-worst-records.cpp
 
+CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj: ../cats-and-a-mouse.cpp
+
 CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj: ../diivisible-sum-pairs.cpp
 
 CMakeFiles/HackerRank.dir/main.cpp.obj: ../main.cpp
+
+CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj: ../the-hurdle-race.cpp
 

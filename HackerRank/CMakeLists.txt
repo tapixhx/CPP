@@ -3,4 +3,4 @@ project(HackerRank)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerRank main.cpp Problem1.cpp between-two-set.cpp breaking-best-and-worst-records.cpp diivisible-sum-pairs.cpp bill-division.cpp cats-and-a-mouse.cpp)
+add_executable(HackerRank main.cpp Problem1.cpp between-two-set.cpp breaking-best-and-worst-records.cpp diivisible-sum-pairs.cpp bill-division.cpp cats-and-a-mouse.cpp the-hurdle-race.cpp designer-pdf-viewer.cpp)

@@ -277,6 +277,33 @@ cats-and-a-mouse.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.s
 .PHONY : cats-and-a-mouse.cpp.s
 
+designer-pdf-viewer.obj: designer-pdf-viewer.cpp.obj
+
+.PHONY : designer-pdf-viewer.obj
+
+# target to build an object file
+designer-pdf-viewer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj
+.PHONY : designer-pdf-viewer.cpp.obj
+
+designer-pdf-viewer.i: designer-pdf-viewer.cpp.i
+
+.PHONY : designer-pdf-viewer.i
+
+# target to preprocess a source file
+designer-pdf-viewer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.i
+.PHONY : designer-pdf-viewer.cpp.i
+
+designer-pdf-viewer.s: designer-pdf-viewer.cpp.s
+
+.PHONY : designer-pdf-viewer.s
+
+# target to generate assembly for a file
+designer-pdf-viewer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.s
+.PHONY : designer-pdf-viewer.cpp.s
+
 diivisible-sum-pairs.obj: diivisible-sum-pairs.cpp.obj
 
 .PHONY : diivisible-sum-pairs.obj
@@ -331,6 +358,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+the-hurdle-race.obj: the-hurdle-race.cpp.obj
+
+.PHONY : the-hurdle-race.obj
+
+# target to build an object file
+the-hurdle-race.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj
+.PHONY : the-hurdle-race.cpp.obj
+
+the-hurdle-race.i: the-hurdle-race.cpp.i
+
+.PHONY : the-hurdle-race.i
+
+# target to preprocess a source file
+the-hurdle-race.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.i
+.PHONY : the-hurdle-race.cpp.i
+
+the-hurdle-race.s: the-hurdle-race.cpp.s
+
+.PHONY : the-hurdle-race.s
+
+# target to generate assembly for a file
+the-hurdle-race.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.s
+.PHONY : the-hurdle-race.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -355,12 +409,18 @@ help:
 	@echo ... cats-and-a-mouse.obj
 	@echo ... cats-and-a-mouse.i
 	@echo ... cats-and-a-mouse.s
+	@echo ... designer-pdf-viewer.obj
+	@echo ... designer-pdf-viewer.i
+	@echo ... designer-pdf-viewer.s
 	@echo ... diivisible-sum-pairs.obj
 	@echo ... diivisible-sum-pairs.i
 	@echo ... diivisible-sum-pairs.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... the-hurdle-race.obj
+	@echo ... the-hurdle-race.i
+	@echo ... the-hurdle-race.s
 .PHONY : help
 
 

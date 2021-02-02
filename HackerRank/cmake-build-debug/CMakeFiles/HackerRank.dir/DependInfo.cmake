@@ -9,8 +9,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/Github/CPP/HackerRank/bill-division.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/bill-division.cpp.obj"
   "E:/Github/CPP/HackerRank/breaking-best-and-worst-records.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj"
   "E:/Github/CPP/HackerRank/cats-and-a-mouse.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj"
+  "E:/Github/CPP/HackerRank/designer-pdf-viewer.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj"
   "E:/Github/CPP/HackerRank/diivisible-sum-pairs.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj"
   "E:/Github/CPP/HackerRank/main.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/main.cpp.obj"
+  "E:/Github/CPP/HackerRank/the-hurdle-race.cpp" "E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

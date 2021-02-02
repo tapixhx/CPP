@@ -167,6 +167,32 @@ CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Github\CPP\HackerRank\cats-and-a-mouse.cpp -o CMakeFiles\HackerRank.dir\cats-and-a-mouse.cpp.s
 
+CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj: CMakeFiles/HackerRank.dir/flags.make
+CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj: ../the-hurdle-race.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Github\CPP\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRank.dir\the-hurdle-race.cpp.obj -c E:\Github\CPP\HackerRank\the-hurdle-race.cpp
+
+CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Github\CPP\HackerRank\the-hurdle-race.cpp > CMakeFiles\HackerRank.dir\the-hurdle-race.cpp.i
+
+CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Github\CPP\HackerRank\the-hurdle-race.cpp -o CMakeFiles\HackerRank.dir\the-hurdle-race.cpp.s
+
+CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj: CMakeFiles/HackerRank.dir/flags.make
+CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj: ../designer-pdf-viewer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Github\CPP\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRank.dir\designer-pdf-viewer.cpp.obj -c E:\Github\CPP\HackerRank\designer-pdf-viewer.cpp
+
+CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Github\CPP\HackerRank\designer-pdf-viewer.cpp > CMakeFiles\HackerRank.dir\designer-pdf-viewer.cpp.i
+
+CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Github\CPP\HackerRank\designer-pdf-viewer.cpp -o CMakeFiles\HackerRank.dir\designer-pdf-viewer.cpp.s
+
 # Object files for target HackerRank
 HackerRank_OBJECTS = \
 "CMakeFiles/HackerRank.dir/main.cpp.obj" \
@@ -175,7 +201,9 @@ HackerRank_OBJECTS = \
 "CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj" \
 "CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj" \
 "CMakeFiles/HackerRank.dir/bill-division.cpp.obj" \
-"CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj"
+"CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj" \
+"CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj" \
+"CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj"
 
 # External object files for target HackerRank
 HackerRank_EXTERNAL_OBJECTS =
@@ -187,11 +215,13 @@ HackerRank.exe: CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.ob
 HackerRank.exe: CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj
 HackerRank.exe: CMakeFiles/HackerRank.dir/bill-division.cpp.obj
 HackerRank.exe: CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj
+HackerRank.exe: CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj
+HackerRank.exe: CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj
 HackerRank.exe: CMakeFiles/HackerRank.dir/build.make
 HackerRank.exe: CMakeFiles/HackerRank.dir/linklibs.rsp
 HackerRank.exe: CMakeFiles/HackerRank.dir/objects1.rsp
 HackerRank.exe: CMakeFiles/HackerRank.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Github\CPP\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable HackerRank.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Github\CPP\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable HackerRank.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HackerRank.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
