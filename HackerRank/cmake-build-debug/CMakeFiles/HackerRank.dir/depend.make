@@ -11,6 +11,8 @@ CMakeFiles/HackerRank.dir/breaking-best-and-worst-records.cpp.obj: ../breaking-b
 
 CMakeFiles/HackerRank.dir/cats-and-a-mouse.cpp.obj: ../cats-and-a-mouse.cpp
 
+CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj: ../designer-pdf-viewer.cpp
+
 CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj: ../diivisible-sum-pairs.cpp
 
 CMakeFiles/HackerRank.dir/main.cpp.obj: ../main.cpp

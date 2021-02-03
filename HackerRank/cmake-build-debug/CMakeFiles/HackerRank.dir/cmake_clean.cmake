@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/HackerRank.dir/designer-pdf-viewer.cpp.obj"
   "CMakeFiles/HackerRank.dir/diivisible-sum-pairs.cpp.obj"
   "CMakeFiles/HackerRank.dir/main.cpp.obj"
+  "CMakeFiles/HackerRank.dir/subarray-division.cpp.obj"
   "CMakeFiles/HackerRank.dir/the-hurdle-race.cpp.obj"
   "HackerRank.exe"
   "HackerRank.exe.manifest"

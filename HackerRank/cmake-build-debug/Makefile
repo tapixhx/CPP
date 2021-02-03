@@ -358,6 +358,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+subarray-division.obj: subarray-division.cpp.obj
+
+.PHONY : subarray-division.obj
+
+# target to build an object file
+subarray-division.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/subarray-division.cpp.obj
+.PHONY : subarray-division.cpp.obj
+
+subarray-division.i: subarray-division.cpp.i
+
+.PHONY : subarray-division.i
+
+# target to preprocess a source file
+subarray-division.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/subarray-division.cpp.i
+.PHONY : subarray-division.cpp.i
+
+subarray-division.s: subarray-division.cpp.s
+
+.PHONY : subarray-division.s
+
+# target to generate assembly for a file
+subarray-division.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\HackerRank.dir\build.make CMakeFiles/HackerRank.dir/subarray-division.cpp.s
+.PHONY : subarray-division.cpp.s
+
 the-hurdle-race.obj: the-hurdle-race.cpp.obj
 
 .PHONY : the-hurdle-race.obj
@@ -418,6 +445,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... subarray-division.obj
+	@echo ... subarray-division.i
+	@echo ... subarray-division.s
 	@echo ... the-hurdle-race.obj
 	@echo ... the-hurdle-race.i
 	@echo ... the-hurdle-race.s

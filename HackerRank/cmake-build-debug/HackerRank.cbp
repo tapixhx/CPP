@@ -104,6 +104,9 @@
 		<Unit filename="E:/Github/CPP/HackerRank/main.cpp">
 			<Option target="HackerRank"/>
 		</Unit>
+		<Unit filename="E:/Github/CPP/HackerRank/subarray-division.cpp">
+			<Option target="HackerRank"/>
+		</Unit>
 		<Unit filename="E:/Github/CPP/HackerRank/the-hurdle-race.cpp">
 			<Option target="HackerRank"/>
 		</Unit>
