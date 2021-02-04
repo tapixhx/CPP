@@ -1,3 +1,0 @@
-E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/HackerRank.dir
-E:/Github/CPP/HackerRank/cmake-build-debug/CMakeFiles/edit_cache.dir
