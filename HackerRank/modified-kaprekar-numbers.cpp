@@ -17,25 +17,12 @@
 //            len++;
 //            t/=10;
 //        }
-//        if((sq%10)!=0) {
-//            while (len--) {
-//                rem = sq % 10;
-//                rv = rv * 10 + rem;
-//                sq /= 10;
-//            }
-//            while (rv != 0) {
-//                rem = rv % 10;
-//                r = r * 10 + rem;
-//                rv /= 10;
-//            }
-//        }else {
-//            for (ll j = len; j >= 0; j--) {
-//                rv = rv * 10 + ll(sq / pow(10, j)) % 10;
-//            }
-//            r = rv;
-//            while (len--) {
-//                sq /= 10;
-//            }
+//        for (ll j = len-1; j >= 0; j--) {
+//            rv = rv * 10 + ll(sq / pow(10, j)) % 10;
+//        }
+//        r = rv;
+//        while (len--) {
+//            sq /= 10;
 //        }
 //        if((sq+r) == i)
 //            a.push_back(i);
