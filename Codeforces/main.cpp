@@ -29,22 +29,6 @@ using namespace std;
 
 int main() {
     FASTIO
-    int n, min, ans=0, q, num;
-    int a[] = {1, 5, 10, 20, 100};
-    cin >> n;
-    while(n!=0) {
-        min = INT_MAX;
-        for(int i=4; i>=0; i--) {
-            q=n/a[i];
-            if(q!=0 && q<min) {
-                min = q;
-                num=a[i];
-            }
-        }
-        if(min != INT_MAX)
-            ans+=min;
-        n%=num;
-    }
-    cout <<  ans;
+    
     return 0;
 }
