@@ -29,34 +29,6 @@ using namespace std;
 
 int main() {
     FASTIO
-    int t;
-    cin >> t;
-    while(t--) {
-           int n, q;
-           string s;
-           cin >> n >> q >> s;
-           while(q--) {
-               int u, v, f1=0, f2=0;
-               string s1;
-               cin >> u >> v;
-               s1 = s.substr((u-1), (v));
-               if((u-1)==0 && v==n)
-                   cout << "NO\n";
-               else {
-                   for(int i=0; i<u-1; i++) {
-                       if(s1[0]==s[i])
-                           f1=1;
-                   }
-                   for(int i=v; i<n; i++) {
-                       if(s1[v-u]==s[i])
-                           f2=1;
-                   }
-                   if(f1==0 && f2==0)
-                       cout << "NO\n";
-                   else
-                       cout << "YES\n";
-               }
-           }
-    }
+    
     return 0;
 }
