@@ -29,6 +29,32 @@ using namespace std;
 
 int main() {
     FASTIO
-    
+    int t;
+    cin >> t;
+    while(t--) {
+        int n, k, num1, num2, j=2;
+        cin >> n >> k;
+        vii a(n+1, 0);
+        if(2*k >= n)
+            cout << -1 << endl;
+        else {
+            num1 = 1;
+            num2 = n;
+            for(int i=1; i<=k; i++) {
+                a[j]=num2;
+                j+=2;
+                num2--;
+            }
+            for(int i=1; i<=n; i++) {
+                if(a[i]==0) {
+                    a[i]=num1;
+                    num1++;
+                }
+            }
+            for(int i=1; i<=n; i++)
+                cout << a[i] << " ";
+            cout << endl;
+        }
+    }
     return 0;
 }
