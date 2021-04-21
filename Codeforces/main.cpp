@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 #define ll              long long int
-#define endl            "\n"
 #define mod             1000000007
 #define pi              3.141592653589793238
 #define lcm(a,b)        (a/(__gcd(a,b)))*b
