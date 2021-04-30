@@ -10,18 +10,6 @@ using namespace std;
 
 int main() {
     FASTIO
-    int t;
-    cin >> t;
-    while(t--) {
-        int len;
-        string s;
-        cin >> s;
-        len = s.length();
-        if(len > 10) {
-            cout << s[0] << len-2 << s[len-1] << "\n";
-        }
-        else
-            cout << s << "\n";
-    }
+    
     return 0;
 }
