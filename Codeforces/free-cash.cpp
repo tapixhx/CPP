@@ -10,16 +10,20 @@
 //
 //int main() {
 //    FASTIO
-//    int n, k, res = -2000000000;
-//    cin >> n >> k;
-//    for(int i=0; i<n; i++) {
-//        int f, t;
-//        cin >> f >> t;
-//        int cur=f;
-//        if (t > k)
-//            cur -= (t - k);
-//        res = max(res,cur);
+//    int n;
+//    cin >> n;
+//    ll ans = 1, prevH = -1, prevM = -1, h, m, temp = 1;
+//    while(n--) {
+//        cin >> h >> m;
+//        if(prevH == h and prevM == m)
+//            temp++;
+//        else {
+//            temp = 1;
+//        }
+//        ans = max(ans, temp);
+//        prevH = h;
+//        prevM = m;
 //    }
-//    cout << res << "\n";
+//    cout << ans;
 //    return 0;
 //}
