@@ -10,15 +10,8 @@
 //
 //int main() {
 //    FASTIO
-//    ll a, b, c = 0;
+//    string a, b;
 //    cin >> a >> b;
-//    while(b%a == 0) {
-//        c++;
-//        b=b/a;
-//    }
-//    if(b==1)
-//        cout << "YES" << "\n" << c-1;
-//    else
-//        cout << "NO";
+//    (a == b) ? cout << -1 : cout << max(a.length(), b.length());
 //    return 0;
 //}
